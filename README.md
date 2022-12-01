@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @protektwar
 - 👀 I’m interested in Exploring Technologies!
 - 🌱 I’m currently learning a lot of new things:
-  - MIPS arhitecture and assembler programming 
+  - MIPS arhitecture and assembler programming (if you want to learn MIPS doing our [MIPS learning server](https://discord.gg/nMEBYXvg6N))
   - SDR works/decodes waves to sound to information, 
   - 3D printing
   - 3D programming
