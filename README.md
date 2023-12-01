@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @protektwar
+- 👋 Hi, I’m A. Herlas
 - 👀 I’m interested in Exploring Technologies!
 - 🌱 I’m currently learning a lot of new things:
   - MIPS arhitecture and assembler programming (if you want to learn MIPS join our [MIPS learning server](https://discord.gg/nMEBYXvg6N))
